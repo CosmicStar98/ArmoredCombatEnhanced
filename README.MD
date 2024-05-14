@@ -1,3 +1,5 @@
+![For Democracy!](https://media1.tenor.com/m/mVqjbqgx_v4AAAAC/helldivers-2-arrowhead-game-studios.gif)
+
 # Armored Combat Framework Enhanced
 
 Welcome to Armored Combat Framework Enhanced (ACE2), your gateway to a world of realistic building experience in your favorite game. ACE2 is more than just an addon; it's a journey into creating incredible machines, vehicles, and contraptions. Whether you're dreaming of armored tanks, high-speed cars, futuristic aircraft, or complex mechanisms, ACE2 empowers your creativity. All you need is a dash of Wiremod knowledge, and you're ready to conquer new frontiers.
