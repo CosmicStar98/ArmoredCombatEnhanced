@@ -1,0 +1,5 @@
+r100
+--For an extended version history, please visit the github changelog.  https://github.com/CosmicStar98/ArmoredCombatEnhanced/commits/master
+
+*r101
+-Initial Release
