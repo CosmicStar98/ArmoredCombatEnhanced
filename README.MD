@@ -57,6 +57,8 @@ To keep up with our progress, join our [Discord](https://discord.gg/s3ejVEKpnB).
 
 Explore our documentation and tutorials in the [ACE2 Wiki](https://github.com/CosmicStar98/ArmoredCombatEnhanced/wiki).
 
+View planned changes on the [to-do list](TODO.MD).
+
 Use the [Dev Branch](https://github.com/CosmicStar98/ArmoredCombatEnhanced/tree/dev) for contribution.
 
 
