@@ -1,4 +1,5 @@
 ![For Democracy!](https://media1.tenor.com/m/mVqjbqgx_v4AAAAC/helldivers-2-arrowhead-game-studios.gif)
+![Alright with Cheeze Pizza](https://raw.githubusercontent.com/CosmicStar98/ArmoredCombatEnhanced/main/cheezus_and_rdc.png)
 
 # Armored Combat Framework Enhanced
 
@@ -56,6 +57,8 @@ We welcome contributions to ACE2. Please review our [contribution guidelines](ht
 To keep up with our progress, join our [Discord](https://discord.gg/s3ejVEKpnB).
 
 Explore our documentation and tutorials in the [ACE2 Wiki](https://github.com/CosmicStar98/ArmoredCombatEnhanced/wiki).
+
+View planned changes on the [To-Do list](TODO.MD).
 
 Use the [Dev Branch](https://github.com/CosmicStar98/ArmoredCombatEnhanced/tree/dev) for contribution.
 
